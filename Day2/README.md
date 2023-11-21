@@ -1,4 +1,4 @@
-# Day 2 Learning Summary - November 16, 2023
+# Day 2 Learning Summary - November 20, 2023
 
 ## Understanding Cross-Site Request Forgery (CSRF)
 
